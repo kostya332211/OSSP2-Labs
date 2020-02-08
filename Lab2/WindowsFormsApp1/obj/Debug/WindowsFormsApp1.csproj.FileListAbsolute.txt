@@ -1,0 +1,15 @@
+D:\Subject\OSI2\Lab\Lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Subject\OSI2\Lab\Lab2\WindowsFormsApp1\obj\Debug\Interop.ActiveXCPP2Lib.dll
+D:\Subject\OSI2\Lab\Lab2\WindowsFormsApp1\obj\Debug\AxInterop.ActiveXCPP2Lib.dll
+D:\Subject\OSI2\Lab\Lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+D:\Subject\OSI2\Lab\Lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Subject\OSI2\Lab\Lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Subject\OSI2\Lab\Lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Subject\OSI2\Lab\Lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Subject\OSI2\Lab\Lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Subject\OSI2\Lab\Lab2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Subject\OSI2\Lab\Lab2\WindowsFormsApp1\bin\Debug\Interop.ActiveXCPP2Lib.dll
+D:\Subject\OSI2\Lab\Lab2\WindowsFormsApp1\bin\Debug\AxInterop.ActiveXCPP2Lib.dll
+D:\Subject\OSI2\Lab\Lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Subject\OSI2\Lab\Lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Subject\OSI2\Lab\Lab2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

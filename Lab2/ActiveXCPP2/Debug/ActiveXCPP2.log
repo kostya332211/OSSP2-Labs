@@ -1,0 +1,25 @@
+﻿  Processing .\ActiveXCPP2.idl
+  ActiveXCPP2.idl
+  Processing C:\Windows Kits\10\Include\10.0.17134.0\um\oaidl.idl
+  oaidl.idl
+  Processing C:\Windows Kits\10\Include\10.0.17134.0\um\objidl.idl
+  objidl.idl
+  Processing C:\Windows Kits\10\Include\10.0.17134.0\um\unknwn.idl
+  unknwn.idl
+  Processing C:\Windows Kits\10\Include\10.0.17134.0\shared\wtypes.idl
+  wtypes.idl
+  Processing C:\Windows Kits\10\Include\10.0.17134.0\shared\wtypesbase.idl
+  wtypesbase.idl
+  Processing C:\Windows Kits\10\Include\10.0.17134.0\shared\basetsd.h
+  basetsd.h
+  Processing C:\Windows Kits\10\Include\10.0.17134.0\shared\guiddef.h
+  guiddef.h
+  Processing C:\Windows Kits\10\Include\10.0.17134.0\um\oaidl.acf
+  oaidl.acf
+  stdafx.cpp
+  ActiveXCPP2.cpp
+  ActiveXCPP2Ctrl.cpp
+  ActiveXCPP2PropPage.cpp
+  Создание кода...
+     Создается библиотека D:\Subject\OSI2\Lab\Lab2\Debug\ActiveXCPP2.lib и объект D:\Subject\OSI2\Lab\Lab2\Debug\ActiveXCPP2.exp
+  ActiveXCPP2.vcxproj -> D:\Subject\OSI2\Lab\Lab2\Debug\ActiveXCPP2.ocx
