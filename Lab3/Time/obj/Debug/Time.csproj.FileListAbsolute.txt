@@ -1,0 +1,8 @@
+D:\Subject\OSI2\Lab\Lab3\Time\bin\Debug\Time.exe.config
+D:\Subject\OSI2\Lab\Lab3\Time\bin\Debug\Time.exe
+D:\Subject\OSI2\Lab\Lab3\Time\bin\Debug\Time.pdb
+D:\Subject\OSI2\Lab\Lab3\Time\obj\Debug\Time.csproj.CoreCompileInputs.cache
+D:\Subject\OSI2\Lab\Lab3\Time\obj\Debug\Time.exe
+D:\Subject\OSI2\Lab\Lab3\Time\obj\Debug\Time.pdb
+D:\Subject\OSI2\Lab\Lab3\Time\obj\Debug\Time.Properties.Resources.resources
+D:\Subject\OSI2\Lab\Lab3\Time\obj\Debug\Time.csproj.GenerateResource.cache
