@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  MFCLibrary1.cpp
+d:\subject\osi2\lab\lab4\mfclibrary1\mfclibrary1.cpp(20): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+.\MFCLibrary1.def(2): warning LNK4017: оператор MFCLibrary1.dll не поддерживается на конечной платформе; пропущен
+     Создается библиотека D:\Subject\OSI2\Lab\Lab4\Debug\MFCLibrary1.lib и объект D:\Subject\OSI2\Lab\Lab4\Debug\MFCLibrary1.exp
+  MFCLibrary1.vcxproj -> D:\Subject\OSI2\Lab\Lab4\Debug\MFCLibrary1.dll
