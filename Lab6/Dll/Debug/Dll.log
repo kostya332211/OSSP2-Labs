@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Dll.cpp
+d:\subject\osi2\lab\lab6\dll\dll.cpp(1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+  d:\subject\osi2\lab\lab6\dll\dll.cpp(1): note: аргументы командной строки:  см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+d:\subject\osi2\lab\lab6\dll\dll.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  d:\subject\osi2\lab\lab6\dll\dll.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  d:\subject\osi2\lab\lab6\dll\dll.cpp(3): note: использование предварительно скомпилированного заголовка
+  dllmain.cpp
+  Создание кода...
+     Создается библиотека D:\Subject\OSI2\Lab\Lab6\Debug\Dll.lib и объект D:\Subject\OSI2\Lab\Lab6\Debug\Dll.exp
+  Dll.vcxproj -> D:\Subject\OSI2\Lab\Lab6\Debug\Dll.dll
