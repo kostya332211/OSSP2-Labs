@@ -1,0 +1,6 @@
+﻿  Lab11_2.cpp
+d:\subject\osi2\lab\lab11\lab11_2\lab11_2.cpp(14): warning C4101: fp: неиспользованная локальная переменная
+d:\subject\osi2\lab\lab11\lab11_2\lab11_2.cpp(40): warning C4101: fp: неиспользованная локальная переменная
+d:\subject\osi2\lab\lab11\lab11_2\lab11_2.cpp(68): warning C4101: IDThread2: неиспользованная локальная переменная
+d:\subject\osi2\lab\lab11\lab11_2\lab11_2.cpp(66): warning C4101: hThread2: неиспользованная локальная переменная
+  Lab11_2.vcxproj -> D:\Subject\OSI2\Lab\Lab11\Debug\Lab11_2.exe

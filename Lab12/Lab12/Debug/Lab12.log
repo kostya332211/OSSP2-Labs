@@ -1,0 +1,7 @@
+﻿  Lab12.cpp
+d:\subject\osi2\lab\lab12\lab12\lab12.cpp(147): warning C4101: sz: неиспользованная локальная переменная
+d:\subject\osi2\lab\lab12\lab12\lab12.cpp(152): warning C4101: hResult: неиспользованная локальная переменная
+d:\subject\osi2\lab\lab12\lab12\lab12.cpp(139): warning C4101: j: неиспользованная локальная переменная
+d:\subject\osi2\lab\lab12\lab12\lab12.cpp(151): warning C4101: pcch: неиспользованная локальная переменная
+d:\subject\osi2\lab\lab12\lab12\lab12.cpp(143): warning C4101: szBuf: неиспользованная локальная переменная
+  Lab12.vcxproj -> D:\Subject\OSI2\Lab\Lab12\Debug\Lab12.exe
