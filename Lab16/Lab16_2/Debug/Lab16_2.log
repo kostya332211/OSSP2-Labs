@@ -1,0 +1,4 @@
+﻿  Lab16_2.cpp
+d:\subject\osi2\lab\lab16\lab16_2\lab16_2.cpp(125): warning C4101: hdcMem2: неиспользованная локальная переменная
+d:\subject\osi2\lab\lab16\lab16_2\lab16_2.cpp(122): warning C4101: hdc2: неиспользованная локальная переменная
+  Lab16_2.vcxproj -> D:\Subject\OSI2\Lab\Lab16\Debug\Lab16_2.exe
